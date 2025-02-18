@@ -16,7 +16,7 @@ Bem-vindo ao **Curso de React**! Este repositório foi criado para ajudar você 
 
 ### 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/curso-de-react.git
+git clone https://github.com/Allaaxx/curso-de-react.git
 cd curso-de-react
 ```
 
